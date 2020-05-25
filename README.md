@@ -20,3 +20,6 @@ Código de los laboratorios del curso Fundamentals of Parallelism on Intel Archi
 ### Semana 5
 
 ![](https://github.com/jricaur1/parallelism_ia/blob/master/Extra/Cuestionario1_Semana5.jpg)
+
+### Conclusiones
+Este curso me enseñó acerca de los diferentes métodos de paralelismo y acerca de frameworks para manejar paralelismo en aplicaciones. Entender como usar de manera eficiente la capacidad de las máquinas y los múltiples campos de acción de HPC. Adicional a todo esto se adquieren conocimientos acercaa de como mantener un códifo óptimo, portable y "future-proof".
